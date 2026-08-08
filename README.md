@@ -2,7 +2,6 @@
 # 💫 About Me:
 I'm currently working on freelancing<br>I'm looking to collaborate on opensource<br>I'm looking for help with debugging, refactoring<br>I'm currently learning machine learning or java<br>Ask me about freelance project, opensource contributions<br>Fun fact "The term 'bug' in computing originated when a real<br> insect got stuck in a Harvard machine!"
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/A6ZJ4jKxU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushman_sharma_24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayushman-sharma-010747390) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ayushmanx24) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ayushman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushmansharmax24@gmail.com) 
 
